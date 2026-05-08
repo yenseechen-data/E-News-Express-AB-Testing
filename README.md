@@ -44,3 +44,14 @@ The objective of this project is to analyze A/B testing results and determine wh
 * Marketing teams can use the new landing page design as a reference for future campaigns.
 * The company should further analyze user behavior by language preference to support more personalized content strategies.
 * Additional A/B tests can be conducted on headlines, call-to-action buttons, and page layout to further improve conversion.
+
+ 📊 Sample Visualizations
+
+### Conversion Rate Comparison
+![Conversion Rate](conversion_rate.png)
+
+### Time Spent on New vs Old Landing Page
+![Time Spent](time_spent.png)
+
+### Hypothesis Testing Result
+![t Test](t_test.png)
