@@ -1,6 +1,12 @@
-📰 E-News Express A/B Testing Project
+#📰 E-News Express A/B Testing Project
 
-✅ Business Problem
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Hypothesis_Testing-blue?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-Data_Analytics-green?style=for-the-badge)
+
+## ✅ Project Overview 
 
 E-News Express wants to increase user engagement and improve subscription conversion on its website. The company needs to understand the effectiveness of the new landing page in gathering new subscribers for the news portal.
 
